@@ -1,0 +1,69 @@
+.xbox{
+    background-color: #11990c;
+}
+.xs{
+    background-image: url("../img/xcat.png");
+}
+.sc{
+    background-image: url("../img/xl.png");
+}
+.htk{
+    background-image: url("../img/xlg.png");
+    /*https://www.tecmundo.com.br/cultura-geek/145419-hitman-tekken-tag-tournament-destaques-live-gold-setembro.htm*/
+}
+.xgp{
+    background-image: url("../img/xgp.png");
+    /*https://www.eurogamer.pt/articles/2019-09-18-xbox-game-pass-recebe-dirt-rally-2-0-jump-force-e-mais*/
+}
+
+.nintendo{
+    background-color: #ff0000;
+}
+.ring
+{
+    background-image: url("../img/ringcon.png");
+}
+.nsl 
+{
+    background-image: url("../img/ninsl.png");
+}
+.contropng
+{
+    background-image: url("../img/contro.png");
+}
+.dmc{
+    background-image: url("../img/dmc.png");
+}
+.sony{
+    float: left;
+    background-color: #000dc4;
+}
+.ps4{
+    background-image: url("../img/ps4.png")
+    /*https://canaltech.com.br/consoles/playstation-4-esta-entrando-em-sua-fase-final-afirma-sony-114294/*/
+}
+.se1r{
+    /*https://www.playstation.com/pt-br/games/the-legend-of-heroes-trails-of-cold-steel-iii-ps4/*/
+    background-image: url("../img/celu.png");
+}
+.ps5{
+    background-image: url("../img/ps5.png");
+    /*https://www.tecmundo.com.br/dispositivos-moveis/143945-sucessor-xperia-1-aparece-tela-5k-vazamento.htm*/
+}
+.din{
+    background-image: url("../img/din.png");
+    /*https://www.meups4.com.br/noticias/promocao-de-jogos-sony-reduz-precos/*/
+}
+
+.ps5, .din, .se1r, .ps4, .xs, .sc, .htk, .xgp, .ring, .nsl, .contropng, .dmc{
+    float: right;
+    width: 330.015px;
+    height: 284px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ring
+{
+  background-size: 280px;
+}
+

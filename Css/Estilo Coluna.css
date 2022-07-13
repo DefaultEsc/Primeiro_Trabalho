@@ -1,0 +1,285 @@
+.d1, .d3{
+    height:340px;
+    width: 700px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.title1 p, .pg2, .pg3{
+    font-size: 21px;
+}
+.dsc1, .dsc2, .dsc3{
+    margin: auto;
+}
+.d1{
+    background-image: url(../img/BatuTods.png);
+    margin-top: 20px;
+    float: left;
+}
+.a1{
+    background-color: #11990c;
+}
+.a1, .a3{
+    width:350px;
+    height:340px;
+}
+.dsc1{
+    width: 240px;
+    height: 340px;
+}
+.title1{
+    height: 28px;
+    width: 200px;
+    text-align: left;
+    margin-bottom: 40px;
+    padding-top: 6px;
+}
+.title1 p{
+    font-size: 24px;
+}
+.link1{
+    width: 240px;
+    height: 18px;
+}
+.td1, .text1{
+    width: 210px;
+    text-indent: 10px;
+    height: 80px;
+    margin: auto;
+    margin-top:60px;
+}
+.td1{
+    margin-top: 20px;
+}
+.d2{
+    width: 606px;
+    height: 685px;
+    float: right;
+    margin-right: 6px;
+    margin-top: 20px;
+    background-image: url(../img/Lastufus.png);
+    background-size: cover;
+}
+.title2 p{
+	font-size:38px;
+}
+.a2{
+    height:329px;
+    width: 606px;
+    margin-top: 356px;
+    background-color: #0210d3;
+}
+.dsc2{
+    width: 540px;
+    height: 250px;
+    margin-top: 15px;
+    padding-top: 35px;
+}
+.title2{
+    width: 480px;
+    height: 32px;
+    margin: auto;
+    padding: 4px;
+}
+.pg2{
+    height: 24px;
+    width: 100%;
+    margin: 0;
+}
+.text2{
+    float: right;
+    height: 90px;
+    width: 480px;
+    margin-top: 50px;
+    text-indent: 15px;
+}
+.link2{
+    width: 540px;
+    height: 61px;
+    clear: both;
+    padding-top: 31px;
+    text-indent: 30px;
+}
+.link2 a:hover, .link1 a:hover, .link3 a:hover, .link4 a:hover, .link5 a:hover, .link6 a:hover, .link7 a:hover, .link8 a:hover, .link9 a:hover, .t1:hover, .t2:hover, .t3:hover, .t4:hover, .t5:hover {
+    font-size: 19px;
+    transition: 0.4s ease-in-out;
+}
+.link3, .text3, .title3, .link1{
+    margin-top: 35px;
+}
+.d3{
+    margin-top: 365px;
+    background-image: url(../img/Ozelda.png);
+    background-size: cover;
+    margin-right: none;
+}
+.a3{
+    background-color: #ff0000;
+    float: left;
+}
+.dsc3{
+    width: 220px;
+    height: 305px;
+    margin: auto;
+}
+.title3{
+    width: 220px;
+    height: 45px;
+}
+.text3{
+    height: 135px;
+    width: 150px;
+    margin: auto;
+    padding-top: 30px;
+}
+.g45{
+    width: 606px;
+    height: 600px;
+    margin-top: 6px;
+    margin-left: 6px;
+    float: left;
+}
+.d4{
+    height: 600px;
+    width: 300px;
+    float: left;
+    background-image: url(../img/cibepunk.png);
+    background-size: 300px;
+}
+.a4, .a6{
+    margin-top: 300px;
+    height: 300px;
+    width: 300px;
+}
+.a4{
+    background-color: #747474;
+}
+.title4{
+    height: 60px;
+    width: 260px;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5px;
+}
+.dsc4, .dsc5{
+    height: 300px;
+    width: 260px;
+    margin: auto;
+}
+.title4 p{
+    font-size: 40px;
+}
+.link4{
+    height: 30px;
+    width: 100%;
+    margin-top: 190px;
+}
+.d5{
+    margin-left: 306px;
+    height: 600px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(../img/finally.png)
+}
+.a5{
+    height: 300px;
+    width: 300px;
+    background-color: #3ed980;
+    padding-top: 4px;
+}
+.title5 p{
+    font-size: 40px;
+    text-align: center;
+}
+.link5{
+    margin-top: 110px;
+}
+.g678{
+    height: 600px;
+    width: 700px;
+    float: right;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: 6px;
+}
+.d6{
+    float: right;
+    width: 300px;
+    height: 600px;
+    background-image: url(../img/guisofuar5.png);
+    background-size: 460px;
+}
+.a6{
+    background-color: #11990c;
+}
+.title6{
+    height: 110px;
+    width: 200px;
+    margin: auto;
+}
+.title6 p{
+    font-size: 60px;
+    text-align: center;
+}
+.link6{
+    width: 210px;
+    height: 20px;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.d7{
+    width: 394px;
+    height: 297px;
+    background-image: url(../img/fireemblem-pq.png);
+    background-size: cover;
+}
+.a7{
+    background-color: #ff0000;
+}
+.title7{
+    height: 120px;
+    width: 140px;
+    margin: auto;
+    text-align: center;
+}
+.title7 p{
+    font-size: 27.5px;
+}
+.link7{
+    width: 160px;
+    height: 35px;
+    margin: auto;
+    margin-top: 102px;
+}
+.a7, .a8{
+    width: 197px;
+    height: 297px;
+    float: left;
+}
+.d8{
+    width: 394px;
+    height: 297px;
+    margin-top: 6px;
+    background-image: url(../img/deigon.png);
+    background-size: cover;
+}
+.a8{
+    background-color: #0210d3;
+}
+.title8{
+    height: 120px;
+    width: 160px;
+    margin-top: 35px;
+    margin: auto;
+}
+.title8 p{
+    font-size: 55px;
+    text-align: center;
+    margin: 0px;
+}
+.link8{
+    width: 169px;
+    height: 20px;
+    margin: auto;
+    margin-top: 140px;
+}

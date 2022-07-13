@@ -1,0 +1,54 @@
+
+.trabalho,#conteudo{
+    height: 600px;
+    width: 1320px;
+}
+#envelope{
+    height: 1320px;
+}
+.er1,.er2{
+    height: 584px;
+    width: 656px;
+    margin-top: 8px;
+    float: left;
+}
+.er2{
+    margin-left: 0;
+    float: right;
+}
+.re1,.re2{
+    height: 284px;
+    width: 656px;
+}
+.re2{
+    float: right;
+    margin-top: 8px;
+}
+.xy1,.nintendo, .sony, .xbox{
+    width: 326px;
+    height: 284px;
+    float: left;
+}
+.text{
+    height: 210px;
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+p{
+    text-indent: 10px;
+    font-size: 16px;
+    text-align: justify;
+}
+.lik{
+    height: 30px;
+    width: 260px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.lik a{
+    transition: 0.4s ease-in-out;
+}
+.lik a:hover{
+    font-size: 20px;
+}

@@ -1,0 +1,109 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+a:link, a:visited{
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+#envelope{
+    width: 1331px;
+    height: 2039px;
+    margin: auto;
+    background: #ffffff;
+}
+header nav ul{
+    list-style: none;
+    padding-left: 0px;
+    text-align: center;
+    float: right;
+}
+header nav ul li{
+    display: inline-block;
+    margin-right: 30px; 
+}
+header nav ul li a{
+    font-size: 18px;
+}
+#conteudo{  
+    width: 1326px;
+    height: 1346px;
+    margin: auto;    
+}
+a, p{
+    font-size: 18px;
+}
+#section{
+    margin-top: 60px;
+}
+footer{
+    clear: both;
+    background-color: #ffffff;
+    height: 70px;
+    padding-top: 9px;
+    width: auto;
+}
+#header{
+    height: 660px;
+    width:1331px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(../img/910600-pq.png);
+    background-position: center top;
+    background-size: cover;
+}
+footer p{
+    text-align: center;
+    font-size: 18px;
+    color: #000000;
+}
+.dole li a{
+    color: #ffffff;
+    text-decoration: none;
+    border: 2.3px solid rgb(255, 255, 255);
+    border-color: #ffffff;
+    padding: 10px 26px;
+    transition: 0.3s;
+}
+.dole li a:hover{
+    box-shadow: 0 2px 16px #707070;
+    font-weight: 300;
+}
+header{
+    padding-top: 9px;
+    font-size: 20px;
+}
+.tit1{
+    text-align: center;
+    font-size: 29px;
+    color: #000000;
+}
+section p, article p{
+    font-size: 18px;
+    text-align: center;
+    color: #000000;
+}
+section p{
+    text-align: justify;
+    text-indent: 30px;
+}
+.h1{
+    margin-top: 300px;
+    text-align: center;
+    height: 56px;
+    text-indent: 40px;
+    color: #ffffff;
+    font-size: 25px;
+}
+.h2{
+    color: #000000;
+    font-size: 40px;
+    height: 40px;
+    margin: 0px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 300;
+}

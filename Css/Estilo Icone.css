@@ -1,0 +1,25 @@
+.t2:hover{
+    border-color: #11990c;
+    border-bottom: 3.2px solid #11990c;
+    background-color: #11990c;
+}
+.t3:hover{
+    border-color: #ff0000;
+    border-bottom: 3.2px solid #ff0000;
+    background-color: #ff0000;
+}
+.t5:hover{
+    border-color: #000dc4;
+    border-bottom: 3.2px solid #000dc4;
+    background-color: #000dc4;
+}
+.t4:hover{
+    border-color: #3ed890;
+    border-bottom: 3.2px solid #3ed890;
+    background-color: #3ed890;
+}
+.t1:hover{
+    border-color: #747474;
+    border-bottom: 3.2px solid #747474;
+    background-color: #747474;
+}
